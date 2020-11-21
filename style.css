@@ -1,0 +1,27 @@
+/*index*/
+.header{
+    background-image: url("Images/bgHeader.jpeg");
+    color: darkblue;
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-image: url("Images/bgBody.jpeg");
+}
+.footer{
+    margin: 200px;
+}
+.images{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.heading{
+    margin-left: 500px;
+}
+.menu{
+    margin-right: 100px;
+}
+a:link{
+    color: white;
+}
