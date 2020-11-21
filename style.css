@@ -1,12 +1,12 @@
 /*index*/
 .header{
-    background-image: url("Images/bgHeader.jpeg");
+    background-image: url("bgHeader.jpeg");
     color: darkblue;
     display: flex;
     justify-content: space-between;
 }
 body{
-    background-image: url("Images/bgBody.jpeg");
+    background-image: url("bgBody.jpeg");
 }
 .footer{
     margin: 200px;
